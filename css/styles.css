@@ -1,13 +1,21 @@
 body{
-	background-color: #eaf6f6 ;
+	color: black ;
 }
 hr{
 	border-style: none;
 	border-top-style: dotted;
 	border-width: thick;
 	width: 5%;
+	color: grey;
 }
-h1,h3{
+h1{
+	color: #f76b8a;
+	text-shadow: 1px 1px #d49a89;
+}
+h3{
 	color: #66bfbf;
+}
+h1, h3, body{
+	font-family: 'Open Sans', sans-serif !important;
 	background-color: #eaf6f6;
 }
